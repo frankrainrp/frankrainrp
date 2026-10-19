@@ -4,7 +4,7 @@ Building practical AI applications with explicit data boundaries, local persiste
 
 **Focus:** AI & software engineering · Python · TypeScript · model integrations · MCP
 
-**Personal website:** coming soon — link placeholder. <!-- PERSONAL_WEBSITE_URL -->
+**Personal website:** coming soon. <!-- PERSONAL_WEBSITE_URL -->
 
 ## Selected projects
 
@@ -26,6 +26,6 @@ TypeScript · Next.js · React · SQLite · IndexedDB · Ollama · MCP
 
 ## How to review
 
-Each project links to a runnable package, a component guide and source-level implementation evidence. Technical and plain-language illustrations are planned as the next presentation step.
+Each project links to a runnable package, a component guide and source-level implementation evidence.
 
 [中文介绍](README.zh-CN.md)
