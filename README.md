@@ -26,4 +26,6 @@ Next.js/React learning workspace with SQLite/IndexedDB state, configurable Ollam
 
 ## Infrastructure
 
+<img src="assets/home-server.svg" alt="Home Server AI logo" width="72">
+
 Ubuntu home-server infrastructure runs application containers, local model endpoints, private HTTPS, resource monitoring and CI-approved application updates with SQLite backup and health-based rollback.
